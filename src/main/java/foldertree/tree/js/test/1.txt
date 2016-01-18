@@ -1,0 +1,13 @@
+文件夹 PATH 列表
+卷序列号为 AA96-E12C
+D:.
+├─securecrt
+│  ├─Keymaps
+│  ├─Menus
+│  └─Scripts
+├─securecrt-conf
+│  ├─KnownHosts
+│  ├─Sessions
+│  │  └─aws
+│  └─会话
+└─securecrt-public-key
